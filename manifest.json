@@ -1,11 +1,11 @@
 {
-    "name": "alwaysbijoy",
-    "short_name": "alwaysbijoy",
+    "name": "Emmanuel Oladayo",
+    "short_name": "emmanueloladayo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A portfolio for Emmanuel Oladayo. A software engineer with a breadth of experience.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
