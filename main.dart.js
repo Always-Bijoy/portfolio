@@ -37408,7 +37408,7 @@ $.zi()
 s=$.a9_.av()
 $.zi().toString
 r=t.E
-s=A.ic(A.a([A.nl(A.op(A.a([k,A.CF("assets/images/programmer-3.gif",B.j3,B.vu,345*(s/1080),m)],r),B.aE,B.a8,B.ay),1),l.Cj(a)],r),B.aE,B.a8,B.bu)
+s=A.ic(A.a([A.nl(A.op(A.a([k,A.CF("https://raw.githubusercontent.com/Always-Bijoy/portfolio/main/assets/assets/images/programmer-3.gif",B.j3,B.vu,345*(s/1080),m)],r),B.aE,B.a8,B.ay),1),l.Cj(a)],r),B.aE,B.a8,B.bu)
 k=A.ic(A.a([A.nl(A.op(A.a([A.nl(l.uX(a),1)],r),B.aE,B.a8,B.ay),1),l.Cj(a)],r),B.aE,B.a8,B.bu)
 q=A.nl(l.uX(a),1)
 p=l.Cf(a)
